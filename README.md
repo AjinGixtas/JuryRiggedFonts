@@ -8,13 +8,14 @@ These fonts are customized for better visual alignment, symbol usage, and stylis
 
 ## 🔧 MonoJetBrains + Full Width/Height-Filled Glyphs
 
-![image](https://github.com/user-attachments/assets/b4387550-9f9b-424e-8f24-3e2b0642be85)
+![image](https://github.com/user-attachments/assets/0c2bc292-cf63-47d4-abee-0ed323484889)
+
 
 (Rendered in Godot UI, excuse the weird color line please! ^^)
 
 The text used are:
 ```
-▲▴▶▸▼▾◀◂█◆
+▲▴▶▸▼▾◀◂█◆◢◣◥◤
                ▴
  ▴  ▲         ◢█◣
 ◂█▸◀█▶       ◂███▸
@@ -27,7 +28,7 @@ qwertyuiopasdfghjklzxcvbnm
 (Does look a lot nicer init?)
 
 This variant is based on **JetBrains Mono**, with modifications to specific characters for precise visual alignment. The following characters have been altered:
-▲ ▴ ▶ ▸ ▼ ▾ ◀ ◂ ◆ █
+▲ ▴ ▶ ▸ ▼ ▾ ◀ ◂ █ ◆ ◢ ◣ ◥ ◤
 
 These glyphs now fully occupy the **half-character block space** (either triangular or square fill), which is useful for:
 
